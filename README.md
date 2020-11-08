@@ -1,5 +1,5 @@
 # MyBankApi-MongoDb
-Api node conectado ao mongoDb
+Api node conectado ao MongoDB Atlas com deploy automático no Heroku.
 
 # Enunciado
 O aluno deverá implementar uma API integrada ao MongoDB Atlas cujo o schema dos
